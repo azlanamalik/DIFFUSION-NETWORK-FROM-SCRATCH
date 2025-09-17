@@ -33,8 +33,6 @@ class layer0 :
 
 
 
-class 
-
 
 
 class Convolutional_Layer():
